@@ -1,4 +1,4 @@
-# Fodd Tracker
+# Food Tracker
 Food Tracker is a simple diary application designed to track your daily food intake. It allows you to add individual ingredients, specify their quantities, and calculates the calories and macronutrients of your meals. You can also save your meals for future reference.
 
 The application has been developed using Python and utilizes the Tkinter library for the graphical user interface (GUI) and the SQLite3 module for storing meal data. Additionally, an executable file has been created using PyInstaller, enabling non-technical users to easily download and utilize the program.
