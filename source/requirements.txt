@@ -1,0 +1,13 @@
+altgraph==0.17.3
+Babel==2.12.1
+certifi==2023.5.7
+charset-normalizer==3.1.0
+idna==3.4
+pefile==2023.2.7
+pyinstaller==5.13.0
+pyinstaller-hooks-contrib==2023.4
+pywin32-ctypes==0.2.2
+requests==2.31.0
+sv-ttk==2.4.5
+tkcalendar==1.6.1
+urllib3==2.0.2
