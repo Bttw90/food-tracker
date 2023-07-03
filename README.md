@@ -7,7 +7,7 @@ I opted to let the user register (for free) on the API site used to obtain the k
 
 ### Usage
 To use the Food Tracker application, follow the steps below:
-- Download the file inside the "dist" folder.
+- Download the file named "food_tracker.exe" inside the "dist" folder.
 - Double-click the executable file to launch the Food Tracker application.
 - Click on the "API Key" button in the upper right corner to enter the API key or receive a new one by following the instructions, after that save the key by pressing the "Save Key" button.
 - Return to the main application window and start adding ingredients by clicking on the "Add Food" button.
